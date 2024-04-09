@@ -24,3 +24,5 @@ print("stem words", stem_words)
 print('\n'*5)
 
 print(" lemma_words", lemma_words)
+
+#sentiment Analysis
